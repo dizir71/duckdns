@@ -1,0 +1,5 @@
+Host host25
+  HostName host25.duckdns.org
+  User schweizerhof-am-see_at
+  Port 2222
+  IdentityFile ~/.ssh/id_rsa
